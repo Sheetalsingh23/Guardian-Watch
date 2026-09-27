@@ -12,6 +12,10 @@ Guardian Watch is a lightweight elder-care risk screener that helps family membe
 - Explainable escalation guidance
 - Structured evidence trail
 
+## Demo preview
+
+![Guardian Watch demo](docs/guardian-watch-demo.svg)
+
 ## Run locally
 
 ```bash
